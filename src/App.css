@@ -27,6 +27,124 @@
 .App-link {
   color: #61dafb;
 }
+.navbar {
+  display: flex;
+  background-color: #0c3e6c;
+  height: 6.5vh;
+  width: 75vw;
+  margin-left: 4.5vw;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.navheading {
+  color: white;
+  margin-left: 25vw;
+  font-size: 1.5rem;
+}
+.register {
+  text-decoration-style: solid;
+  text-decoration-line: underline;
+}
+.maindiv {
+  justify-content: center;
+  align-items: center;
+}
+.asseenon {
+  align-self: center;
+  width: auto;
+  height: 10vh;
+  margin-top: 5vh;
+}
+.display6 {
+  font-size: 1.5rem;
+}
+.gold {
+  color: #dba812;
+}
+.inputbox {
+  height: 75vh;
+  width: 15vw;
+  border-radius: 20px;
+}
+.securediv {
+  display: flex;
+  background-color: #0c3e6c;
+  height: 3.2vh;
+  width: 25vw;
+  margin-right: 5vw;
+  margin-top: 3vh;
+}
+.hereis {
+  font-size: 1.2rem;
+  margin-top: 1vh;
+}
+.buttonclass {
+  height: 5vh;
+  width: 5vw;
+}
+.icon {
+  margin-right: 1vw;
+}
+.textmargin {
+  margin-left: 2.5vw;
+  margin-top: -1vh;
+  font-size: 1rem;
+}
+.textmargin2 {
+  margin-left: 2.5vw;
+  margin-top: -2.5vh;
+  font-size: 1rem;
+}
+.textmargin3 {
+  margin-left: 2.5vw;
+  margin-top: -1vh;
+  font-size: 1rem;
+}
+.btn1 {
+  background-color: #e4b734;
+  height: 10vh;
+  color: white;
+  border-radius: 10px;
+  padding: 2vh;
+}
+.terms {
+  font-size: 0.5rem;
+}
+.termsandconditions {
+  height: 5vh;
+  width: 30vw;
+}
+.capped {
+  margin-top: -2.5vh;
+  font-size: 0.7rem;
+}
+.just {
+  font-size: 2rem;
+  color: #294b83;
+  margin-top: 20vh;
+}
+.sspic1 {
+  width: auto;
+  height: 60vh;
+}
+.sspic2 {
+  width: 20vw;
+  height: 55vh;
+}
+.sspic3 {
+  width: 20vw;
+  height: 50vh;
+}
+.screenshots {
+  margin-top: 10vh;
+}
+.person {
+  width: 7vw;
+  height: 10vh;
+}
+.tit {
+  color: #294b83;
+}
 
 @keyframes App-logo-spin {
   from {
