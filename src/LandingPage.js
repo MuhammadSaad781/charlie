@@ -29,43 +29,43 @@ export default function LandingPage() {
       <img src={AsSeenOn} className="rounded mx-auto d-block asseenon" />
       <div>
         <div className="d-flex justify-content-center">
-          <h1 className="justify-content-center">
+          <h1 className="justify-content-center howto">
             How To Extract{" "}
             <span class="gold">Returns Consistently From The Financial</span>
           </h1>
         </div>
         <div className="d-flex justify-content-center">
-          <h1>
+          <h1 className="likethe">
             <span class="gold">Markets</span> Like The Big Financial
             Institutions Using
           </h1>
         </div>
         <div className="d-flex justify-content-center">
-          <h1>
+          <h1 className="the">
             The{" "}
             <u>
-              <em>Same Trading System </em>
+              <em className="sametrading">Same Trading System </em>
             </u>
             They Use
           </h1>
         </div>
         <div className="d-flex justify-content-center">
-          <p className="display6">
+          <p className="display6 evenif">
             … Even If You Do Not Have Any Prior Trading Knowledge, A Huge
             Capital To Start With Or Time To
           </p>
         </div>
         <div className="d-flex justify-content-center">
-          <p className="display6">Follow The News & Markets</p>
+          <p className="display6 follow">Follow The News & Markets</p>
         </div>
       </div>
       <div className="container">
         <div className="container-fluid shadow p-3 mb-5 inputbox">
           <div className="d-flex flex-row">
-            <div className="col"></div>{" "}
-            <div>
-              <div className="col securediv justify-content-center ">
-                <p className="text-white justify-content-center ">
+            <div className="col">Video Here</div>{" "}
+            <div className="inputtype">
+              <div className="col securediv justify-content-center bluebar">
+                <p className="text-white justify-content-center securetxt">
                   <strong>SECURE YOUR LIVE TICKET RIGHT NOW!</strong>
                 </p>
               </div>
@@ -106,7 +106,10 @@ export default function LandingPage() {
               <div class="d-grid gap-2 col-8 mx-auto">
                 <button className="btn1" type="button">
                   <b>
-                    <p fontSize="medium"> > RESERVE YOUR LIVE TICKET</p>
+                    <p fontSize="medium" className="reserve">
+                      {" "}
+                      > RESERVE YOUR LIVE TICKET
+                    </p>
                   </b>
                   <p class="capped">**CAPPED TO KEEP WEBCLASS INTERACTIVE**</p>
                 </button>
@@ -184,7 +187,7 @@ export default function LandingPage() {
                   <h5 class="card-title tit">
                     Iris Ie - IT Manager of US Retail Firm
                   </h5>
-                  <p class="card-text">
+                  <p class="card-text crdtxt">
                     Before attending the course, I thought that there were so
                     many currency pairs and it was difficult to decide which one
                     to trade at a certain time. But Justin is a very good
@@ -205,7 +208,7 @@ export default function LandingPage() {
                   <h5 class="card-title tit">
                     Nai Pan Ng - Architectural Designer
                   </h5>
-                  <p class="card-text">
+                  <p class="card-text crdtxt">
                     I have very little experience and struggled to make money
                     with all the information in the internet, it's very
                     confusing! Justin makes the concept simple and easy to
@@ -224,7 +227,7 @@ export default function LandingPage() {
               <div class="col-md-8">
                 <div class="card-body">
                   <h5 class="card-title tit">Anthony Liu - Business Analyst</h5>
-                  <p class="card-text">
+                  <p class="card-text crdtxt">
                     It was Justin who told me that by understanding the
                     fundamentals and market sentiments, it can help make better
                     judgements, which make trading a lot less stressful. I

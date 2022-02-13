@@ -154,3 +154,267 @@
     transform: rotate(360deg);
   }
 }
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .navheading {
+    font-size: 1rem;
+  }
+  .evenif {
+    font-size: 1rem;
+  }
+  .inputbox {
+    height: 90vh;
+  }
+  .sspic1 {
+    width: 40vw;
+  }
+  .sspic2 {
+    height: 50vh;
+  }
+  .sspic3 {
+    height: 30vh;
+  }
+}
+@media screen and (max-width: 768px) and (min-width: 426px) {
+  .navheading {
+    font-size: 1rem;
+  }
+  .evenif {
+    font-size: 1rem;
+  }
+  .inputbox {
+    height: 100vh;
+  }
+  .bluebar {
+    width: 50vw;
+  }
+  .inputtype {
+    height: 20vh;
+    margin-left: 25vw;
+  }
+  .sspic1 {
+    width: 30vw;
+    height: 30vh;
+  }
+  .sspic2 {
+    height: 40vh;
+  }
+  .sspic3 {
+    height: 20vh;
+  }
+  .tit {
+    font-size: 0.5rem;
+  }
+  .crdtxt {
+    font-size: 0.5rem;
+  }
+  .navheading {
+    font-size: 0.8rem;
+  }
+  .howto {
+    font-size: 1rem;
+  }
+  .gold {
+    font-size: 1rem;
+  }
+  .likethe {
+    font-size: 1rem;
+  }
+  .sametrading {
+    font-size: 1rem;
+  }
+  .the {
+    font-size: 1rem;
+  }
+}
+@media screen and (max-width: 426px) and (min-width: 375px) {
+  .navheading {
+    font-size: 1rem;
+  }
+  .evenif {
+    font-size: 0.5rem;
+  }
+  .inputbox {
+    height: 143vh;
+  }
+  .bluebar {
+    width: 50vw;
+  }
+  .inputtype {
+    height: 20vh;
+    margin-left: 25vw;
+  }
+  .sspic1 {
+    width: 30vw;
+    height: 20vh;
+  }
+  .sspic2 {
+    height: 30vh;
+  }
+  .sspic3 {
+    height: 10vh;
+  }
+  .tit {
+    font-size: 0.5rem;
+  }
+  .crdtxt {
+    font-size: 0.5rem;
+  }
+  .navheading {
+    font-size: 0.8rem;
+  }
+  .howto {
+    font-size: 1rem;
+  }
+  .gold {
+    font-size: 1rem;
+  }
+  .likethe {
+    font-size: 1rem;
+  }
+  .sametrading {
+    font-size: 1rem;
+  }
+  .the {
+    font-size: 1rem;
+  }
+  .reserve {
+    font-size: 0.5rem;
+  }
+  .capped {
+    font-size: 0.5rem;
+  }
+  .just {
+    font-size: 1rem;
+  }
+}
+@media screen and (max-width: 376px) and (min-width: 320px) {
+  .navheading {
+    font-size: 0.3rem;
+  }
+  .evenif {
+    font-size: 0.5rem;
+  }
+  .inputbox {
+    height: 180vh;
+  }
+  .bluebar {
+    width: 40vw;
+  }
+  .inputtype {
+    height: 20vh;
+    margin-left: 25vw;
+  }
+  .sspic1 {
+    width: 30vw;
+    height: 20vh;
+  }
+  .sspic2 {
+    height: 30vh;
+  }
+  .sspic3 {
+    height: 10vh;
+  }
+  .tit {
+    font-size: 0.4rem;
+  }
+  .crdtxt {
+    font-size: 0.4rem;
+  }
+  .navheading {
+    font-size: 0.8rem;
+  }
+  .howto {
+    font-size: 0.5rem;
+  }
+  .gold {
+    font-size: 0.5rem;
+  }
+  .likethe {
+    font-size: 0.5rem;
+  }
+  .sametrading {
+    font-size: 0.5rem;
+  }
+  .the {
+    font-size: 0.5rem;
+  }
+  .reserve {
+    font-size: 0.5rem;
+  }
+  .capped {
+    font-size: 0.5rem;
+  }
+  .just {
+    font-size: 1rem;
+  }
+  .securetxt {
+    font-size: 0.5rem;
+  }
+}
+@media screen and (max-width: 320px) {
+  .navheading {
+    font-size: 0.1rem;
+  }
+  .evenif {
+    font-size: 0.5rem;
+  }
+  .inputbox {
+    height: 200vh;
+  }
+  .bluebar {
+    width: 40vw;
+  }
+  .inputtype {
+    height: 20vh;
+    margin-left: 25vw;
+  }
+  .sspic1 {
+    width: 30vw;
+    height: 20vh;
+  }
+  .sspic2 {
+    height: 30vh;
+  }
+  .sspic3 {
+    height: 10vh;
+  }
+  .tit {
+    font-size: 0.4rem;
+  }
+  .crdtxt {
+    font-size: 0.4rem;
+  }
+  .navheading {
+    font-size: 0.8rem;
+  }
+  .howto {
+    font-size: 0.5rem;
+  }
+  .gold {
+    font-size: 0.5rem;
+  }
+  .likethe {
+    font-size: 0.5rem;
+  }
+  .sametrading {
+    font-size: 0.5rem;
+  }
+  .the {
+    font-size: 0.5rem;
+  }
+  .reserve {
+    font-size: 0.5rem;
+  }
+  .capped {
+    font-size: 0.5rem;
+  }
+  .just {
+    font-size: 1rem;
+  }
+  .follow {
+    font-size: 0.5rem;
+  }
+  .securetxt {
+    font-size: 0.45rem;
+  }
+}
